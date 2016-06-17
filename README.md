@@ -4,7 +4,7 @@ PicPicker is Awesome Single and Multiple Image Picker Library.
 ---
 
 # Example
-![](https://github.com/pratikbutani/PicPicker/blob/master/screenshot1.png)
+![](https://github.com/pratikbutani/PicPicker/blob/master/screenshot1.png =600x800)
 ![](https://github.com/pratikbutani/PicPicker/blob/master/screenshot2.png)
 ![](https://github.com/pratikbutani/PicPicker/blob/master/screenshot3.png)
 
